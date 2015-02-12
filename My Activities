@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html> 
+  <h1> My Activities <h1/>
+  <head>
+        <link> rel="stylesheet" type="text/css"href=""
+  <head/>
+    <div class="title">Current Activities</div>
+      <div class="list">
+        <div class="time">Chart</div>
+        <div class="">These are your activities</div>
+    </div>
